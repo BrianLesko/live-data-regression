@@ -1,6 +1,6 @@
 
 # Live Linear Regression
-This code implements live data regression for a live data feed written with Streamlit, a low code Web browser UI. This project is written in [Pure Python]() in under 50 lines of code. Created by Brian Lesko for professional engineering purposes.
+This code implements live data regression for a live data feed written with Streamlit, a low code Web browser UI. This project is written in [Pure Python](https://raw.githubusercontent.com/BrianLesko/live-data-regression/main/app.py) in under 50 lines of code. Created by Brian Lesko for professional engineering purposes.
 
 &nbsp;
 
@@ -23,7 +23,7 @@ This code uses the following libraries:
 Run the following commands:
 ```
 pip install --upgrade streamlit matplotlib
-streamlit run https://raw.githubusercontent.com/BrianLesko/rrt-star/main/app.py
+streamlit run https://raw.githubusercontent.com/BrianLesko/live-data-regression/main/app.py
 ```
 
 This will start the local Streamlit server, and you can access the chatbot by opening a web browser and navigating to `http://localhost:8501`.
