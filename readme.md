@@ -1,6 +1,6 @@
 
 # Live Data Feed
-This code implements a live data viewer written with Streamlit, a low code Web browser UI. This project is written in [Pure Python](https://github.com/BrianLesko/rrt-star/blob/main/app.py) in under 50 lines of code. Created by Brian Lesko for professional engineering purposes.
+This code implements live data regression for a live data feed written with Streamlit, a low code Web browser UI. This project is written in [Pure Python]() in under 50 lines of code. Created by Brian Lesko for professional engineering purposes.
 
 &nbsp;
 
@@ -47,7 +47,11 @@ repository/
 &nbsp;
 
 ## Topics 
+
+This repository was created after my live data feed repository, that plots data in a real time web server window. in that code, I just simulated some noisy sinusoidal data. Challenges there included getting the plot to be stable, as it tended to jiggle when the X axis updated so often. This project came directly after and serves as a review of the basics of machine learning, linear regression. I chose to use scikit learn because this library is most popular for machine learning at the moment. Fully written in python. 
+
 ```
+scikit-learn | machine learning | linear regression
 Python | Low Code | UI | Web application | HTTP | Web server | live data | data science | robotics automation | system management | data collection | monitoring | real time | software dev
 Mechanical engineer | Robotics engineer | Engineering
 ```
