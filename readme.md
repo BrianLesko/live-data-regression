@@ -1,5 +1,5 @@
 
-# Live Data Feed
+# Live Linear Regression
 This code implements live data regression for a live data feed written with Streamlit, a low code Web browser UI. This project is written in [Pure Python]() in under 50 lines of code. Created by Brian Lesko for professional engineering purposes.
 
 &nbsp;
